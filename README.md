@@ -1,3 +1,5 @@
+Todo list app built using the new redux toolkit and typescript for research purposes.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
